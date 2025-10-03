@@ -32,25 +32,30 @@ This project demonstrates how to manage files and directories in Linux using bas
 ### 1. Create a new directory
 - Create a new subdirectory called logs in the /home/analyst directory.
 - List the contents of the /home/analyst directory to confirm that you’ve successfully created the new logs subdirectory.
-<img
+<img src="https://github.com/Shan-light/Security-Analyst-Linux-Lab/blob/8fd9c79e849dacf6198e16df588fbacad52ec029/Images/createDirectory.png">
+Task 1: Image 1
 
 ### 2. Remove a directory
 - Remove the /home/analyst/temp directory.
 - List the contents of the /home/analyst directory to confirm that you have removed the temp subdirectory.
-<img
+<img src="https://github.com/Shan-light/Security-Analyst-Linux-Lab/blob/8fd9c79e849dacf6198e16df588fbacad52ec029/Images/removeDirectory.png">
+Task 2: Image 2
 
 ### 3. Move a file
 - Navigate to the /home/analyst/notes directory.
 - Move the Q3patches.txt file from the /home/analyst/notes directory to the /home/analyst/reports directory.
 - List the contents of the /home/analyst/reports directory to confirm that you have moved the file successfully.
-<img
+<img src="https://github.com/Shan-light/Security-Analyst-Linux-Lab/blob/8fd9c79e849dacf6198e16df588fbacad52ec029/Images/movingFile.png">
+Task 3: Image 3
 
 ### 4. Remove a file
 - Remove the tempnotes.txt file from the /home/analyst/notes directory.
 - List the contents of the /home/analyst/notes directory to confirm that you’ve removed the file successfully.
-<img
+<img src="https://github.com/Shan-light/Security-Analyst-Linux-Lab/blob/8fd9c79e849dacf6198e16df588fbacad52ec029/Images/removeFile.png">
+Task 4: Image 4
 
 ### 5. Create a new file
 - Use the touch command to create an empty file called tasks.txt in the /home/analyst/notes directory.
 - List the contents of the /home/analyst/notes directory to confirm that you have created a new file.
-<img
+<img src="https://github.com/Shan-light/Security-Analyst-Linux-Lab/blob/8fd9c79e849dacf6198e16df588fbacad52ec029/Images/createFile.png">
+Task 5: Image 5
