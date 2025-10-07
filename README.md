@@ -1,21 +1,23 @@
-# File-Permissions-In-Linux
-The research team at my organization needed to update file permissions for specific files and directories within the projects directory. The existing permissions did not accurately reflect the required authorization levels, posing a potential security risk. To enhance system security and ensure proper access control, I reviewed, verified, and updated file and directory permissions using Linux commands.
+# Security-Analyst-Linux-Lab
+Practice managing files and directories in Linux using Bash commands.
 
 ## Objectives
-This project focuses on enhancing system security by managing and updating file permissions in a Linux environment. It demonstrates how to use basic Bash commands to review, modify, and organize files and directories while ensuring proper access control. The tasks simulate a real-world scenario for a security analyst responsible for maintaining secure directory structures and accurate documentation.
+This project demonstrates how to manage files and directories in Linux using basic Bash commands. The tasks simulate a real-world scenario for a security analyst who needs to organize directories and maintain proper documentation.
 
 ## Skills Learned
-- Navigated and managed files and directories using Bash commands
+- Navigating the Linux file system using Bash
 
-- Verified and updated Linux file permissions to ensure proper access control
+- Creating and removing directories with mkdir and rmdir
 
-- Applied principles of least privilege and secure file management
+- Moving, renaming, and deleting files with mv and rm
 
-- Used chmod, chown, and ls -l to analyze and modify permission settings
+- Editing text files with the nano editor
 
-- Practiced documentation and command-line efficiency for system administration
+- Verifying directory structures and file contents with ls and cat
 
-- Strengthened understanding of Linux security fundamentals relevant to cybersecurity roles
+- Applying file management practices used by system administrators and security analysts
+
+- Documenting tasks and changes in a structured way
 
 ## Tools Used
 - Linux (Bash Shell): For executing file and directory management commands
